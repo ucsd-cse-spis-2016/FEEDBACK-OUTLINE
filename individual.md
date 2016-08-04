@@ -3,22 +3,22 @@
 Feedback for Alex T.   Mentor: Fred
 
 
-# labs
+# Individual Lab Work
 
 # lab00
-
-# lab01
 
 
 # APS
 
-## Week 1
+## Repo Creation
 
-## Week 2
+## Week 1 Solution
 
-## Week 3
+## Week 2 Solution
 
-## Week 4
+## Week 3 Solution
+
+## Week 4 Solution
 
 # Homework
 
